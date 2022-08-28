@@ -16,7 +16,7 @@ Modules and files that provide additional data for use in scripts are stored her
 - used by edited [kanaFurniture](https://github.com/Nkfree/tes3mp-scripts/blob/master/0.7/kanaFurniture/kanaFurniture.lua) and [decorateHelp](https://github.com/Nkfree/tes3mp-scripts/blob/master/0.7/decorateHelp.lua)
 
 ### locations.lua
-- module that consists of exterior cell ids mapped to their string representation
+- module that consists of exterior cell ids mapped to their name representation
 - *example:* locations["-3, -2"] = "Balmora"
 
 ### namesData.lua
